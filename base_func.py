@@ -5,7 +5,7 @@
 
 import requests
 
-url = 'http://61.220.119.14/reg_check.php?s=05&doc=050011&clinic=05055&d=1040822&p=1'
+url = ''
 
 
 def web_request(url):
